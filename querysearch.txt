@@ -1,0 +1,9 @@
+-https://www.devaradise.com/id/2014/12/cara-membuat-validasi-form-dengan-html5.html
+-https://codeitworld.com/pembuatan-function-validasi-password-user-oracle/
+-https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-mutable-list/
+-https://www.w3schools.com/tags/att_input_maxlength.asp
+-https://www.javatpoint.com/confirm-password-validation-in-javascript
+-https://stackoverflow.com/questions/39740832/password-validation-is-at-least-6-character
+-https://stackoverflow.com/questions/633876/setting-maxlength-using-javascript
+-https://www.sourcecodester.com/tutorial/javascript/14346/limit-password-length-using-javascript.html
+-https://www.folkstalk.com/tech/javascript-password-max-length-with-code-examples/
