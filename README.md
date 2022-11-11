@@ -1,7 +1,11 @@
 # LogicTest1
+![LogicTest1](https://user-images.githubusercontent.com/68162980/201309820-4d03a029-9212-44ad-9ed9-0f44d94e61f5.jpg)
+
 Download File kotlin dari GitHub ke local computer lalu buka file kotlin yang telah diinstall di IDE kotline yang tersedia lalu RUN file kotlin berhasil dijalankan
 
 # LogicTest2
+![LogicTest2](https://user-images.githubusercontent.com/68162980/201309866-ba423e90-1a27-4476-bb78-680c4e507a8e.jpg)
+
 Download File kotlin dari GitHub ke local computer lalu buka file kotlin yang telah diinstall di IDE kotline yang tersedia lalu RUN file kotlin berhasil dijalankan
 
 # LogicTest3
